@@ -20,6 +20,8 @@
 * **Data Visualization**: `Matplotlib`, `Pyplot`
 * **Dataset**: [Kaggle: AI/ML Salaries Dataset](https://www.kaggle.com/datasets/cedricaubin/ai-ml-salaries)
 
+完整程式碼：
+[![Open In Colab](https://colab.research.google.com/drive/1tWrl8xKp3cZvn7Sy9-RwPG7OYr9xT3d1?usp=sharing)
 ## 📈 視覺化分析亮點 (Visualization Highlights)
 本專案包含五大核心圖表分析：
 1. **職位平均薪資分析**：識別 AI 產業中的高薪領頭職務。
